@@ -1,5 +1,8 @@
 ﻿using System;
-
+class Program
+{
+    static void Main(string[] args)
+    {
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 // 	მეორე დავალება C#
 //1) შექმენით კონსოლური აპლიკაცია, რომელიც შეასრულებს მარტივ არითმეტიკულ ოპერაციებს რიცხვებზე.
